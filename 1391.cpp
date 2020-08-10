@@ -46,7 +46,7 @@ void wandan23() {
 
 
 signed main() {
-    wandan23();
+    
 
     int t;
     cin >> t;
